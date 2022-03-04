@@ -1,0 +1,27 @@
+.nav__item {
+  text-decoration: none;
+  color: #1f7a8c;
+  font-size: larger;
+}
+.nav__item:hover {
+  color: #022b3a;
+}
+nav > ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+nav > ul > li {
+  margin: 0 10px;
+}
+header > h1 {
+  background-color: #1f7a8c;
+  padding: 10px;
+  color: white;
+  font-weight: 400;
+  font-family: "Fredoka", sans-serif;
+}
+nav {
+  background-color: #e1e5f2;
+  margin-bottom: 30px;
+}
