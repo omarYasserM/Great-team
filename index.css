@@ -57,6 +57,7 @@ p {
 }
 .team__card > img {
   width: 50%;
+  border-radius: 50%;
 }
 
 #team {
